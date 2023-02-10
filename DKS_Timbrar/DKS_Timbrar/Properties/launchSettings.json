@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DKS_Timbrar": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\rogel\\OneDrive_-_SF\\Clientes\\DKS\\ComplementoDePago\\test010.xml luis.lopez@dks.com.mx $Diseko2017 T"
+    }
+  }
+}
